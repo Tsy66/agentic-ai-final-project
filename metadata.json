@@ -1,0 +1,5 @@
+{
+  "name": "CrewInvest AI",
+  "description": "An AI-powered investment portfolio advisor utilizing a Multi-Agent architecture (Risk, Market, Portfolio, Simulation, Education, Report) powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
